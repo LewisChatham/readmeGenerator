@@ -1,6 +1,6 @@
-# ReadMe Generator [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# Title [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Description
-Using this command line application, you can create detailed readme's for your projects.
+Description
 ## Table of Contents
 - [Description](#description)
 - [Installation](#installation)
@@ -10,9 +10,9 @@ Using this command line application, you can create detailed readme's for your p
 - [Tests](#tests)
 - [Questions](#questions)
 ## Installation
-To install the application, first run "npm i" in your terminal to install the dependencies.
+Step 1, step 2, step 3 etc
 ## Usage
-To run the application, run "node index" in the terminal under the root directory
+Step 1, step 2, step 3 etc
 ## License
 MIT License
 
@@ -36,9 +36,9 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ## Contributing
-To contribute to this project please contact me, see the "questions" section for more information.
+Contrib guidelines etc
 ## Tests
-To test that this is working, you can view the output of the application in the output folder.
+test1, test2, test3
 ## Questions
 - Github Username: LewisChatham.
 - Github Profile: https://github.com/LewisChatham.

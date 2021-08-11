@@ -1,7 +1,7 @@
 # ReadMe Generator [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 - Link to the Github Repository: https://github.com/LewisChatham/readmeGenerator
-- Link to the Usage Video: 
+- Link to the Usage Video: https://drive.google.com/file/d/1DWcA8gvC_eyfgZ0tWo10hN8HKkafT3QE/view
 
 ## Description
 Using this command line application, you can create detailed readme's for your projects.
